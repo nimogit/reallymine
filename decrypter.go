@@ -6,10 +6,10 @@ import (
 	"io"
 	"crypto/aes"
 
-	"github.com/andlabs/reallymine/disk"
-	"github.com/andlabs/reallymine/bridge"
-	"github.com/andlabs/reallymine/kek"
-	"github.com/andlabs/reallymine/decryptloop"
+	"github.com/nimogit/reallymine/disk"
+	"github.com/nimogit/reallymine/bridge"
+	"github.com/nimogit/reallymine/kek"
+	"github.com/nimogit/reallymine/decryptloop"
 )
 
 // TODO rename this type

@@ -6,7 +6,7 @@ import (
 	"crypto/cipher"
 	"strings"
 
-	"github.com/andlabs/reallymine/byteops"
+	"github.com/nimogit/reallymine/byteops"
 )
 
 // This complicated structure allows us to define a fixed set of Step objects and disallow nil at the same time, reducing the number of things that need validation.

@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/andlabs/reallymine/command"
-	"github.com/andlabs/reallymine/disk"
-	"github.com/andlabs/reallymine/kek"
+	"github.com/nimogit/reallymine/command"
+	"github.com/nimogit/reallymine/disk"
+	"github.com/nimogit/reallymine/kek"
 )
 
 func runUntilDEK(d *disk.Disk, out io.Writer) (dec *Decrypter, err error) {

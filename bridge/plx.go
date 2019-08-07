@@ -6,8 +6,8 @@ import (
 	"encoding/binary"
 	"crypto/aes"
 
-	"github.com/andlabs/reallymine/byteops"
-	"github.com/andlabs/reallymine/decryptloop"
+	"github.com/nimogit/reallymine/byteops"
+	"github.com/nimogit/reallymine/decryptloop"
 )
 
 type PLX struct{}

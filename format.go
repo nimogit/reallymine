@@ -6,7 +6,7 @@ import (
 	"encoding/hex"
 	"strings"
 
-	"github.com/andlabs/reallymine/bridge"
+	"github.com/nimogit/reallymine/bridge"
 )
 
 func formatSectorPos(pos int64) string {

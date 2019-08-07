@@ -12,7 +12,7 @@ sha1:     81158da148ac04b4719c2e0e835edbbbb8bfbace
 
 Due to the nonavailability of documentation, I'll be working from scratch.
 
-First thing to note is that the firmware primarily runs in THUMB mode for whatever reasn. ([Good thing I have](https://github.com/andlabs/idapyscripts) [experience with ARM-THUMB!](https://github.com/andlabs/mmbnmapdump))
+First thing to note is that the firmware primarily runs in THUMB mode for whatever reasn. ([Good thing I have](https://github.com/nimogit/idapyscripts) [experience with ARM-THUMB!](https://github.com/nimogit/mmbnmapdump))
 
 The memory map appears to be simple:
 

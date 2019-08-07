@@ -7,9 +7,9 @@ import (
 	"flag"
 	"strings"
 
-	"github.com/andlabs/reallymine/command"
-	"github.com/andlabs/reallymine/disk"
-	"github.com/andlabs/reallymine/decryptloop"
+	"github.com/nimogit/reallymine/command"
+	"github.com/nimogit/reallymine/disk"
+	"github.com/nimogit/reallymine/decryptloop"
 )
 
 func errf(format string, args ...interface{}) {

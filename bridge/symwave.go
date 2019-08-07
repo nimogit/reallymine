@@ -5,8 +5,8 @@ import (
 	"bytes"
 	"encoding/binary"
 
-	"github.com/andlabs/reallymine/byteops"
-	"github.com/andlabs/reallymine/decryptloop"
+	"github.com/nimogit/reallymine/byteops"
+	"github.com/nimogit/reallymine/decryptloop"
 	"github.com/mendsley/gojwe"
 )
 
